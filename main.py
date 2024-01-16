@@ -1,0 +1,2 @@
+import osszegzes
+osszegzes.osszegzes()
